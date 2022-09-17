@@ -20,3 +20,16 @@ h4 {
 .trybe {
   color: #000;
 }
+
+.titulo {
+  color: #0a7e51;
+  line-height: 55px;
+  font-weight: 600;
+  font-size: 45px;
+}
+
+.sub-titulo {
+  line-height: 42px;
+  font-weight: 600;
+  font-size: 28px;
+}
