@@ -33,3 +33,13 @@ h4 {
   font-weight: 600;
   font-size: 28px;
 }
+
+.image {
+  border-radius: 100%;
+}
+
+.testimonials-name {
+  line-height: 20px;
+  font-weight: 600;
+  font-size: 14px;
+}
