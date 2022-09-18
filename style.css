@@ -86,3 +86,8 @@ h4 {
   width: 80%;
   margin: auto;
 }
+
+.testemunho {
+  width: 30%;
+  display: inline-block;
+}
